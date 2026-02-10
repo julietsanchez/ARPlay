@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+header {
+position: sticky;
+top: 0px;
+z-index: 3;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex-grow: 1;
+}
+.bg-footer{
+    background-color: #0A1015;
+}
+p,h5 {
+    font-family: "DM Sans", sans-serif;
+
+}
