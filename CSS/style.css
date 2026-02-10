@@ -1,0 +1,19 @@
+header {
+position: sticky;
+top: 0px;
+z-index: 3;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex-grow: 1;
+}
+.bg-footer{
+    background-color: #0A1015;
+}
+p,h5 {
+  font-family: "Roboto Slab", serif;
+}
